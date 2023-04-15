@@ -6,5 +6,5 @@
 
 I am a student of Computer Science and Econometrics (full-time studies).
 
-In the future I want to become a data engineer and develop my skills all the time.
+In the future I want to become a data analyst and develop my skills all the time.
 
