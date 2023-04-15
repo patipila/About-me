@@ -1,5 +1,5 @@
 # About-me
-- 👋 Hi, I’m Patrycja
+- 👋 Hi there!
  - 💡 I’m interested in Data Analytics and IT!
  - 🎓 I’m currently learning C#, R, Python, SQL and Data Visualization  
  - 📧 How you can contact me? pati.pila02@gmail.com
